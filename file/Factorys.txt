@@ -1,0 +1,7 @@
+{"id":"F001","name":"DWTL智能工厂","administrator":"000","description":"生产各种高达","Eq_list":["E001"],"state":1}
+{"id":"F002","name":"描边工厂","administrator":"111","description":"生产各种瞄准镜","Eq_list":["E001","E005"],"state":1}
+{"id":"F003","name":"RTGX智能工厂","administrator":"111","description":"生产各种握把","Eq_list":[],"state":1}
+{"id":"F004","name":"超级工厂","administrator":"000","description":"最强工厂","Eq_list":[],"state":1}
+{"id":"F005","name":"MG印钞厂","administrator":"111","description":"生产各种冥币","Eq_list":["E008"],"state":1}
+{"id":"F006","name":"井盖工厂","administrator":"000","description":"生产铁制井盖","Eq_list":[],"state":1}
+{"id":"F007","name":"神秘工厂","administrator":"000","description":"非常神秘","Eq_list":[],"state":1}

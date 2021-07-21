@@ -1,0 +1,8 @@
+{"id":"D001","name":"神秘订单","agency":"000","product":"神秘产品","quantity":"1","equipment":"神秘设备","address":"神秘地址","date":"未知","factory":"神秘工厂","state":0}
+{"id":"D002","name":"倍镜订单1","agency":"222","product":"2倍瞄准镜","quantity":"1000","equipment":"C_3型智能车床","address":"浑南校区小西门","date":"2020年09月01号","factory":"描边工厂","state":3}
+{"id":"D003","name":"倍镜订单2","agency":"222","product":"4倍瞄准镜","quantity":"1000","equipment":"C_5型智能车床","address":"浑南校区小西门","date":"2020年09月01号","factory":"","state":1}
+{"id":"D004","name":"倍镜订单3","agency":"222","product":"6倍瞄准镜","quantity":"1000","equipment":"C_7型智能车床","address":"浑南校区小西门","date":"2020年09月01号","factory":"","state":1}
+{"id":"D005","name":"倍镜订单4","agency":"222","product":"8倍瞄准镜","quantity":"1000","equipment":"C_9型智能车床","address":"浑南校区小西门","date":"2020年09月01号","factory":"","state":1}
+{"id":"D006","name":"高达订单","agency":"000","product":"高达","quantity":"3","equipment":"DWTL生产系统","address":"中南海","date":"2025年01月01日","factory":"DWTL智能工厂","state":2}
+{"id":"D007","name":"高达订单2","agency":"000","product":"高达","quantity":"10","equipment":"DWTL生产系统","address":"中北海","date":"2026年01月01日","factory":"","state":0}
+{"id":"D008","name":"握把订单1","agency":"236","product":"垂直握把","quantity":"200","equipment":"V_1型智能冲压机","address":"浑南校区小西门","date":"2020年09月01日","factory":"RTGX智能工厂","state":2}

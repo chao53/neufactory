@@ -1,0 +1,13 @@
+{"id":"E001","name":"C_5型智能车床","description":"生产4倍瞄准镜","factory":"产能中心","owner":"000","state":0}
+{"id":"E002","name":"V_1型智能冲压机","description":"生产垂直握把","factory":"产能中心","owner":"000","state":2}
+{"id":"E003","name":"DWTL生产系统","description":"生产高达","factory":"产能中心","owner":"000","state":2}
+{"id":"E004","name":"神秘设备","description":"极其神秘","factory":"产能中心","owner":"000","state":0}
+{"id":"E005","name":"C_7型智能车床","description":"生产6倍瞄准镜","factory":"产能中心","owner":"000","state":2}
+{"id":"E006","name":"V_2型智能冲压机","description":"生产半截式握把","factory":"产能中心","owner":"000","state":2}
+{"id":"E007","name":"V_3型智能冲压机","description":"生产直角握把","factory":"产能中心","owner":"000","state":2}
+{"id":"E008","name":"GB7号印钞机","description":"生产各种冥币","factory":"产能中心","owner":"000","state":1}
+{"id":"E009","name":"C_9型智能车床","description":"生产8倍瞄准镜","factory":"描边工厂","owner":"000","state":2}
+{"id":"E010","name":"C_3型智能车床","description":"生产2倍瞄准镜","factory":"描边工厂","owner":"000","state":2}
+{"id":"E011","name":"V_2型智能冲压机","description":"生产直角握把","factory":"RTGX智能工厂","owner":"111","state":2}
+{"id":"E012","name":"水杯机","description":"生产水杯","factory":"产能中心","owner":"000","state":2}
+{"id":"E013","name":"水杯机2","description":"做水杯","factory":"产能中心","owner":"000","state":2}

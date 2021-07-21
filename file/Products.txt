@@ -1,0 +1,8 @@
+{"id":"P001","name":"2倍瞄准镜","description":"能放大2倍的瞄准镜","exist":1}
+{"id":"P002","name":"4倍瞄准镜","description":"能放大4倍的瞄准镜","exist":1}
+{"id":"P003","name":"6倍瞄准镜","description":"能放大6倍的瞄准镜","exist":1}
+{"id":"P004","name":"8倍瞄准镜","description":"能放大8倍的瞄准镜","exist":1}
+{"id":"P005","name":"神秘产品","description":"十分神秘","exist":0}
+{"id":"P006","name":"高达","description":"又高又大故称高达","exist":1}
+{"id":"P007","name":"垂直握把","description":"减少垂直方向的后坐力","exist":1}
+{"id":"P008","name":"直角握把","description":"减少水平方向的后坐力","exist":1}
